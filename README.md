@@ -159,16 +159,4 @@ The `.pbix` file includes:
 ## 🧰 Tech Stack
 
 `Python` · `Pandas` · `NumPy` · `Matplotlib` · `Seaborn` · `Scikit-learn` · `Streamlit` · `SQL` · `Power BI`
-
----
-
-## 📌 Notes
-
-- Update the file path in `analysis.py` to point to your local dataset location.
-- The Streamlit app auto-derives `Profit` (20% margin assumption) if it's missing from the uploaded CSV, and falls back to generated sample data if no file is uploaded.
-
----
-
-## 📄 License
-
-This project is available for personal and educational use. Add a license of your choice (e.g., MIT) if publishing publicly.
+ersonal and educational use. Add a license of your choice (e.g., MIT) if publishing publicly.
